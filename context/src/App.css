@@ -1,0 +1,14 @@
+* {
+  font-size: 30px;
+}
+.dark {
+  background-color: black;
+  color: white;
+  transition: 0.3s linear;
+}
+.light {
+  background-color: white;
+  transition: 0.3s linear;
+
+  color: black;
+}
