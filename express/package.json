@@ -1,0 +1,15 @@
+{
+  "name": "backend-exam",
+  "version": "1.0.0",
+  "description": "lorem ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Rashad Xalilov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  }
+}
